@@ -1,0 +1,2032 @@
+[
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210423)PolarDB-X_如何拯救误删数据的你一_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/367137740",
+        "upload_time": "2024-10-03T20:01:48.842286",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201120)PolarDB-X_一致性共识协议__X-Paxos_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/302845832",
+        "upload_time": "2024-10-03T20:01:49.359570",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220127)PolarDB-X_全局_Binlog_解读_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/369115822",
+        "upload_time": "2024-10-03T20:01:49.867636",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201123)PolarDB-X_私有协议设计_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/308173106",
+        "upload_time": "2024-10-03T20:01:50.317279",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210317)PolarDB-X_分布式事务的实现二InnoDB_CTS_扩展_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/355413022",
+        "upload_time": "2024-10-03T20:01:50.794313",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201127)PolarDB-X_存储架构之基于Paxos的最佳生产实践_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/315596644",
+        "upload_time": "2024-10-03T20:01:51.319990",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210507)PolarDB-X_CBO_优化器技术内幕_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/370372242",
+        "upload_time": "2024-10-03T20:01:51.798332",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201130)数据库架构杂谈1云数据库架构_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/321353390",
+        "upload_time": "2024-10-03T20:01:52.349391",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210521)PolarDB-X_类型系统概述_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/374130246",
+        "upload_time": "2024-10-03T20:01:52.834400",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201211)PolarDB-X_面向_HTAP_的_CBO_优化器_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/336084031",
+        "upload_time": "2024-10-03T20:01:53.256168",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210604)PolarDB-X_全局_Binlog_解读之_DDL_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/377854011",
+        "upload_time": "2024-10-03T20:01:53.751797",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201215)PolarDB-X_面向_HTAP_的混合执行器_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/337062566",
+        "upload_time": "2024-10-03T20:01:54.227021",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210819)通过转账测试验证分布式事务_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/401355454",
+        "upload_time": "2024-10-03T20:01:54.652404",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201218)PolarDB-X_向量化执行引擎1_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/337574939",
+        "upload_time": "2024-10-03T20:01:55.097993",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211222)PolarDB-X_如何限流慢_SQL_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/448618356",
+        "upload_time": "2024-10-03T20:01:55.563398",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201225)PolarDB-X_向量化引擎2_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/339514444",
+        "upload_time": "2024-10-03T20:01:56.137462",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210616)优化器技术演进统计信息feedback_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/381127564",
+        "upload_time": "2024-10-03T20:01:56.622339",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201228)数据库架构杂谈2高可用与一致性_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/340189997",
+        "upload_time": "2024-10-03T20:01:57.054732",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210329)分布式数据库中的一致性与时间戳_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/360690247",
+        "upload_time": "2024-10-03T20:01:57.543783",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210105)如何评价阿里云分布式云数据库polardb-X_20_PolarDB-X.md",
+        "file_url": "https://www.zhihu.com/question/437521111/answer/1662709915",
+        "upload_time": "2024-10-03T20:01:58.045330",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210830)谈谈_PolarDB-X_的水平扩展_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/357338439",
+        "upload_time": "2024-10-03T20:01:58.513672",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210106)分钟搞定PolarDB-X的在线扩容_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/342274954",
+        "upload_time": "2024-10-03T20:01:58.788025",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210903)PolarDB-X_SQL_限流_二_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/406517137",
+        "upload_time": "2024-10-03T20:01:59.243344",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210111)PolarDB-X云原生分布式数据库_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/343454525",
+        "upload_time": "2024-10-03T20:01:59.630183",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210305)查询性能优化之_Runtime_Filter_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/354754979",
+        "upload_time": "2024-10-03T20:02:00.057724",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210115)阿里云_PolarDB-X_分布式数据库团队招聘杭州北京上海_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/344310881",
+        "upload_time": "2024-10-03T20:02:00.438067",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220418)PolarDB-X_拆分规则变更_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/358379137",
+        "upload_time": "2024-10-03T20:02:00.870686",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210118)PolarDB-X_SQL_限流_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/345227459",
+        "upload_time": "2024-10-03T20:02:01.314835",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210412)真异地多活架构怎么实现使用PolarDB-X_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/364240552",
+        "upload_time": "2024-10-03T20:02:01.786951",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210121)PolarDB-X一条Alter语句修改拆分键分区数_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/346026906",
+        "upload_time": "2024-10-03T20:02:02.063948",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220107)PolarDB-X_企业级特性之_TDE_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/454351658",
+        "upload_time": "2024-10-03T20:02:02.525921",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210122)PolarDB-X_并行计算框架_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/346320114",
+        "upload_time": "2024-10-03T20:02:03.052622",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210625)将WordPress从MySQL迁移到PolarDB-X_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/382964588",
+        "upload_time": "2024-10-03T20:02:03.437733",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210125)PolarDB-X_智能索引推荐技术尝鲜_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/346792091",
+        "upload_time": "2024-10-03T20:02:03.853478",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211119)PolarDB-X_DDL也要追求ACID_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/435352604",
+        "upload_time": "2024-10-03T20:02:04.294256",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210129)PolarDB-X让Online_DDL更Online_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/347885003",
+        "upload_time": "2024-10-03T20:02:04.700136",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210409)PolarDB-X_如何用_15M_内存跑_TPC-H_1G_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/363435372",
+        "upload_time": "2024-10-03T20:02:05.200116",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210201)自动化测试数据库逻辑_Bug_的关键__Test_Oracle_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/348461076",
+        "upload_time": "2024-10-03T20:02:05.761169",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211129)PolarDB-X_分布式MDL死锁检测_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/438968674",
+        "upload_time": "2024-10-03T20:02:06.255722",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210205)分布式数据库如何实现_Join_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/349420901",
+        "upload_time": "2024-10-03T20:02:06.713954",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220927)PolarDB-X_全局二级索引_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/568686051",
+        "upload_time": "2024-10-03T20:02:07.222602",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210208)子查询漫谈_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/350009405",
+        "upload_time": "2024-10-03T20:02:07.698604",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211215)Docker_与_Kubernetes_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/445604490",
+        "upload_time": "2024-10-03T20:02:08.182986",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210302)谈谈_PolarDB-X_的分区实现_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/353697706",
+        "upload_time": "2024-10-03T20:02:08.646084",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211220)PolarDB-X_热点优化系列_一_如何支持淘宝库存热点更新_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/432580272",
+        "upload_time": "2024-10-03T20:02:09.094666",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210608)论文解读Multi-way_Join_列式内存数据库Join优化_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/378858715",
+        "upload_time": "2024-10-03T20:02:09.566175",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210701)PolarDB-X_全局_Binlog_和备份恢复能力解读_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/385608337",
+        "upload_time": "2024-10-03T20:02:10.062629",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210611)分布式数据库如何实现_Join二_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/379967662",
+        "upload_time": "2024-10-03T20:02:10.490561",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220607)PolarDB-X_是如何拯救误删数据的你二备份恢复_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/429977533",
+        "upload_time": "2024-10-03T20:02:10.942966",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210719)论文解读机器学习加持的查询优化器SIGMOD_2021_Best_Paper_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/391159830",
+        "upload_time": "2024-10-03T20:02:11.374064",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210918)PolarDB-X_分布式事务的实现三异步提交优化_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/411794605",
+        "upload_time": "2024-10-03T20:02:11.905327",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20210930)PolarDB-X_分布式事务的实现四跨地域事务_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/415744064",
+        "upload_time": "2024-10-03T20:02:12.367490",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211216)PolarDB-X_优化器核心技术__执行计划管理_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/398558605",
+        "upload_time": "2024-10-03T20:02:12.914038",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211216)PolarDB-X_优化器核心技术__计算下推_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/366312701",
+        "upload_time": "2024-10-03T20:02:13.407245",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220614)论文解读Opportunities_for_Optimism_in_Contended_MainMemory_Multicore_Transactions_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/528691783",
+        "upload_time": "2024-10-03T20:02:13.926499",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211220)PolarDB-X_热点优化系列_二如何支持淘宝大卖家分区热点_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/447564638",
+        "upload_time": "2024-10-03T20:02:14.438779",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)PolarDB-X_原理导读_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/636796226",
+        "upload_time": "2024-10-03T20:02:14.922902",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230203)是的我们开源了_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/424345630",
+        "upload_time": "2024-10-03T20:02:15.300645",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20211231)论文解读Differentiated_Key-Value_Storage_Management_for_Balanced_IO_Performance_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/452171652",
+        "upload_time": "2024-10-03T20:02:15.775023",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220810)PolarDB-X_多租户的设计和思考_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/551691114",
+        "upload_time": "2024-10-03T20:02:16.271748",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220112)PolarDB-X_智能诊断之优化慢_SQL_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/456481689",
+        "upload_time": "2024-10-03T20:02:16.793437",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220607)PolarDB-X_如何优化Batch_Insert_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/525359371",
+        "upload_time": "2024-10-03T20:02:19.349512",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)PolarDB-X_简介_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/290053012",
+        "upload_time": "2024-10-03T20:02:19.792908",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220124)论文解读MatrixKV_Reducing_Write_Stalls_and_Write_Amplification_in_LSM-tree__PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/461226502",
+        "upload_time": "2024-10-03T20:02:20.261034",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220816)PolarDB-X_CDC_之数据导入综述_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/554284375",
+        "upload_time": "2024-10-03T20:02:20.693270",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220129)PolarDB-X_全局_Binlog_解读之理论篇_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/462995079",
+        "upload_time": "2024-10-03T20:02:21.195727",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220824)全局唯一ID在分布式系统中用来做什么用_PolarDB-X.md",
+        "file_url": "https://www.zhihu.com/question/52823076/answer/2643235674",
+        "upload_time": "2024-10-03T20:02:21.718589",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220207)版本更新_PolarDB-X_Release_Note_20220127_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/464513199",
+        "upload_time": "2024-10-03T20:02:22.080099",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220726)PolarDB-X_中的_AUTO_INCREMENT_兼容性_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/540512887",
+        "upload_time": "2024-10-03T20:02:22.587812",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220321)PolarDB-X_源码解读六分布式死锁检测_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/481468406",
+        "upload_time": "2024-10-03T20:02:23.034280",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220830)OceanBase和TIDB比较谁更好_PolarDB-X.md",
+        "file_url": "https://www.zhihu.com/question/400141995/answer/2652474150",
+        "upload_time": "2024-10-03T20:02:23.552010",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220322)PolarDB-X_如何优化数据导入导出_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/485341931",
+        "upload_time": "2024-10-03T20:02:24.054343",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220726)业内首家PolarDB-X_与_MySQL_AUTO_INCREMENT_完全兼容_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/539245300",
+        "upload_time": "2024-10-03T20:02:24.509645",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220330)PolarDB-X_源码解读番外如何实现一个_Paxos_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/490329189",
+        "upload_time": "2024-10-03T20:02:25.035656",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220902)20的成本PolarDB-X_冷热分离存储评测_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/560662058",
+        "upload_time": "2024-10-03T20:02:25.500386",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220401)版本更新_PolarDB-X_Paxos_重磅开源了_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/491694150",
+        "upload_time": "2024-10-03T20:02:25.945786",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220726)论文解读CockroachDB_事务处理_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/543497168",
+        "upload_time": "2024-10-03T20:02:26.413392",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220408)PolarDB-X_如何检测和分析分布式死锁_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/495282677",
+        "upload_time": "2024-10-03T20:02:26.881840",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220909)PolarDB-X_Online_Schema_Change_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/341685541",
+        "upload_time": "2024-10-03T20:02:27.368240",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220426)PolarDB-X_企业级特性之三权分立_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/505301477",
+        "upload_time": "2024-10-03T20:02:27.794132",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221011)PolarDB-X_全局Binlog解读之性能篇上_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/572412483",
+        "upload_time": "2024-10-03T20:02:28.301844",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220428)PolarDB-X_全局时间戳服务的设计_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/360160666",
+        "upload_time": "2024-10-03T20:02:28.786338",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220628)PolarDB-X_源码解读十事务的一生_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/534962590",
+        "upload_time": "2024-10-03T20:02:29.278328",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220429)版本更新_PolarDB-X_on_OSS_提供冷热数据分离存储_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/507355790",
+        "upload_time": "2024-10-03T20:02:31.066530",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220803)PolarDB-X_OSS冷数据备份恢复_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/548635859",
+        "upload_time": "2024-10-03T20:02:31.518750",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220510)PolarDB-X_如何兼容_MySQL_Binlog_协议和参数_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/512114589",
+        "upload_time": "2024-10-03T20:02:32.044267",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221025)数据库等值查询与统计信息_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/576987355",
+        "upload_time": "2024-10-03T20:02:32.489953",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220517)PolarDB-X_源码解读九DDL的一生上_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/515688555",
+        "upload_time": "2024-10-03T20:02:33.016271",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221029)PolarDB-X_on_OSS_冷热数据分离存储_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/477664175",
+        "upload_time": "2024-10-03T20:02:33.455858",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220527)开源_PolarDB-X_21_版新特性演示_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/520774366",
+        "upload_time": "2024-10-03T20:02:33.812624",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221101)谈谈PolarDB-X在读写分离场景的实践_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/579026526",
+        "upload_time": "2024-10-03T20:02:34.325057",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220531)论文解读Parametric_query_optimize_综述_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/522496331",
+        "upload_time": "2024-10-03T20:02:34.781627",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220705)PolarDB-X_三副本存储引擎_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/535496764",
+        "upload_time": "2024-10-03T20:02:35.287817",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220803)直播预告PolarDB-X_的_TTL_分区表功能介绍及原理解析_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/549478174",
+        "upload_time": "2024-10-03T20:02:35.580003",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20220810)目前市场上最好用的国产分布式数据库都有哪些呢_PolarDB-X.md",
+        "file_url": "https://www.zhihu.com/question/439148203/answer/2617945990",
+        "upload_time": "2024-10-03T20:02:35.931714",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221018)PolarDB-X_源码解读系列DML_之_INSERT_IGNORE_流程_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/574790346",
+        "upload_time": "2024-10-03T20:02:36.479309",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221108)Intel_PAUSE指令变化如何影响MySQL的性能_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/581200704",
+        "upload_time": "2024-10-03T20:02:36.968738",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221116)PolarDB-X_开源分布式数据库进阶营免费报名中_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/584029939",
+        "upload_time": "2024-10-03T20:02:37.368478",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221122)PolarDB-X的in常量查询_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/585609620",
+        "upload_time": "2024-10-03T20:02:37.849607",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221207)实践教程之如何快速使用PolarDB-X_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/589630048",
+        "upload_time": "2024-10-03T20:02:38.275550",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221215)实践教程之如何将PolarDB-X与大数据等系统互通_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/591974208",
+        "upload_time": "2024-10-03T20:02:38.844952",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221220)PolarDB-X_源码解读三CDC_代码结构_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/452174464",
+        "upload_time": "2024-10-03T20:02:39.379836",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221220)PolarDB-X_源码解读八Global_Binlog_的一生_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/501159425",
+        "upload_time": "2024-10-03T20:02:39.834412",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221226)什么情况下需要使用分布式数据库_PolarDB-X.md",
+        "file_url": "https://www.zhihu.com/question/30934556/answer/2618995000",
+        "upload_time": "2024-10-03T20:02:40.316827",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20221227)实践教程之如何对PolarDB-X集群做动态扩缩容_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/593078702",
+        "upload_time": "2024-10-03T20:02:40.837488",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230103)PolarDB-X_源码解读七私有协议连接的一生CN篇_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/497726244",
+        "upload_time": "2024-10-03T20:02:41.349029",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230103)PolarDB-X_源码解读五DML_之_Insert_流程_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/466296747",
+        "upload_time": "2024-10-03T20:02:41.842945",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230103)PolarDB-X源码解读十一DDL的一生下_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/587632034",
+        "upload_time": "2024-10-03T20:02:42.334907",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230103)PolarDB-X源码解读十二谈谈in常量查询的设计与优化_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/596169564",
+        "upload_time": "2024-10-03T20:02:42.747123",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230110)实践教程之如何在PolarDB-X中进行Online_DDL_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/597706748",
+        "upload_time": "2024-10-03T20:02:43.261266",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230117)PolarDB-X_源码解读一CN_代码结构_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/440865170",
+        "upload_time": "2024-10-03T20:02:43.731627",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230117)PolarDB-X_源码解读四SQL_的一生_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/457450880",
+        "upload_time": "2024-10-03T20:02:44.237094",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230117)实践教程之如何在PolarDB-X中优化慢SQL_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/598035560",
+        "upload_time": "2024-10-03T20:02:44.721606",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230131)实践教程之使用PolarDB-X与Flink搭建实时数据大屏_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/601866031",
+        "upload_time": "2024-10-03T20:02:45.122219",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230202)版本更新PolarDB-X_v22_企业级和国产ARM适配_开源重磅升级_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/578534964",
+        "upload_time": "2024-10-03T20:02:45.672309",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230203)PolarDB-X_Operator_之弹性扩缩容_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/474003785",
+        "upload_time": "2024-10-03T20:02:46.183262",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230203)PolarDB-X_on_Kubernetes_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/382877178",
+        "upload_time": "2024-10-03T20:02:46.641868",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230511)PolarDB-X_数据分布解读二_Hash_vs_Range_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/424174858",
+        "upload_time": "2024-10-03T20:02:47.131515",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230207)PolarDB-X_全局Binlog解读之性能篇下_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/603840937",
+        "upload_time": "2024-10-03T20:02:47.526683",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230414)版本更新PolarDB-X_v221_生产级关键能力开源升级_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/616591584",
+        "upload_time": "2024-10-03T20:02:47.991072",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230214)源码解读semi_join如何避免拉取大表数据一_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/603908060",
+        "upload_time": "2024-10-03T20:02:48.508486",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230609)PolarDB-X_优化器核心技术__Join_Reorder_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/470139328",
+        "upload_time": "2024-10-03T20:02:49.019810",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230220)PolarDB-X开源代码更名公告_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/592302558",
+        "upload_time": "2024-10-03T20:02:49.348251",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230425)实践教程之如何在ARM平台部署PolarDB-X_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/624772807",
+        "upload_time": "2024-10-03T20:02:49.803290",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230221)分布式1024节点1天玩转PolarDB-X超大规模集群_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/608112283",
+        "upload_time": "2024-10-03T20:02:50.277074",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230628)实践教程之PolarDB-X分区管理_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/640126189",
+        "upload_time": "2024-10-03T20:02:50.745856",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230228)PolarDB-X_数据节点备库重搭_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/610048400",
+        "upload_time": "2024-10-03T20:02:51.169238",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230509)实践教程之采集PolarDB-X_SQL日志到ElasticSearch_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/627473361",
+        "upload_time": "2024-10-03T20:02:51.626357",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230307)实践教程之用PolarDB-X搭建一个高可用系统_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/611084170",
+        "upload_time": "2024-10-03T20:02:52.045053",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230511)PolarDB-X_数据分布解读一_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/395415647",
+        "upload_time": "2024-10-03T20:02:52.551268",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230314)实践教程之PolarDB-X_replica原理和使用_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/613010882",
+        "upload_time": "2024-10-03T20:02:52.959619",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)InnoDB事务_-_从原理到实现_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/365415843",
+        "upload_time": "2024-10-03T20:02:53.370758",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230321)PolarDB-X_全局Binlog解读之HA篇_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/614839581",
+        "upload_time": "2024-10-03T20:02:53.835479",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)PolarDB-X_分布式事务的实现一_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/338535541",
+        "upload_time": "2024-10-03T20:02:54.273715",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230330)PolarDB-X_智能诊断之热点分析_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/531899742",
+        "upload_time": "2024-10-03T20:02:54.771034",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230411)实践教程之体验PolarDB-X分布式事务和数据分区_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/620979702",
+        "upload_time": "2024-10-03T20:03:02.243855",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230404)实践教程之基于PrometheusGrafana的PolarDB-X监控体系_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/619103972",
+        "upload_time": "2024-10-03T20:03:03.830573",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240103)PolarDB-X_与_X-DBPolarDB_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/296392729",
+        "upload_time": "2024-10-03T20:03:04.304967",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "客户案例",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230824)PolarDB-X大降价40_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/651920315",
+        "upload_time": "2024-10-03T20:03:04.644043",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230511)PolarDB-X_数据分布解读三_TPCC与透明分布式_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/440801781",
+        "upload_time": "2024-10-03T20:03:05.179416",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230511)PolarDB-X_数据分布解读四_透明_vs_手动_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/556788150",
+        "upload_time": "2024-10-03T20:03:05.662533",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230511)从中间件到分布式数据库PolarDB-X的透明之路_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/561888087",
+        "upload_time": "2024-10-03T20:03:06.158350",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230516)实践教程之如何对PolarDB-X进行备份恢复_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/629703085",
+        "upload_time": "2024-10-03T20:03:06.638774",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230523)实践教程之如何对PolarDB-X的存储节点发起备库重搭_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/631506839",
+        "upload_time": "2024-10-03T20:03:07.093612",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230530)实践教程之如何使用PolarDB-X参数模板_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/632067283",
+        "upload_time": "2024-10-03T20:03:07.770844",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230606)实践教程之如何使用PolarDB-X进行数据导入导出_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/632105332",
+        "upload_time": "2024-10-03T20:03:08.236740",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230620)实践教程之使用PolarDB-X进行TP负载测试_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/638388947",
+        "upload_time": "2024-10-03T20:03:08.646791",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230713)实践教程之使用_PolarDB-X_的_TTL_表功能_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/643357547",
+        "upload_time": "2024-10-03T20:03:09.172163",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)PolarDB-XOceanBaseCockroachDBTiDB二级索引写入性能测评_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/559435890",
+        "upload_time": "2024-10-03T20:03:09.707312",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)PolarDB-X_强一致分布式事务原理_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/329978215",
+        "upload_time": "2024-10-03T20:03:10.227346",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)PolarDB-X_的诞生和发展_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/289870241",
+        "upload_time": "2024-10-03T20:03:10.711014",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)PolarDB-X_针对跑批场景的思考和实践_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/647239594",
+        "upload_time": "2024-10-03T20:03:11.222064",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)主流CPU性能摸底IntelAMD鲲鹏海光飞腾_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/540655373",
+        "upload_time": "2024-10-03T20:03:11.763679",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)分布式数据库如何有效评测国产数据库的事务一致性_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/622794489",
+        "upload_time": "2024-10-03T20:03:12.316824",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)分布式数据库挂掉两台机器会发生什么_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/625604552",
+        "upload_time": "2024-10-03T20:03:12.791852",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)十年后数据库还是不敢拥抱NUMA_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/387117470",
+        "upload_time": "2024-10-03T20:03:13.262306",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)无处不在的_MySQL_XA_事务_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/372300181",
+        "upload_time": "2024-10-03T20:03:13.691410",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230803)源码解读PolarDB-X中的窗口函数_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/617563356",
+        "upload_time": "2024-10-03T20:03:14.170230",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230808)聊聊数据库中的_savepoint_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/647808638",
+        "upload_time": "2024-10-03T20:03:14.688607",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230809)实践教程之如何快速安装部署PolarDB-X_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/583389666",
+        "upload_time": "2024-10-03T20:03:15.159228",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230815)聊聊数据库中的烂索引_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/649990447",
+        "upload_time": "2024-10-03T20:03:15.606545",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240108)PolarDB-X_分区键列类型变更_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/644077047",
+        "upload_time": "2024-10-03T20:03:16.104221",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230904)典型场景__PolarDB-X_如何支撑SaaS多租户_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/652980296",
+        "upload_time": "2024-10-03T20:03:16.649797",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231213)PolarDB-X_HTAP新特性__列存索引_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/671755090",
+        "upload_time": "2024-10-03T20:03:17.135490",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230905)深度优化__PolarDB-X_基于向量化SIMD指令的探索_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/650910891",
+        "upload_time": "2024-10-03T20:03:17.713624",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231121)数据库导入导出工具BatchTool介绍_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/667949705",
+        "upload_time": "2024-10-03T20:03:18.210805",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230912)PolarDB-X_存储引擎核心技术__Lizard分布式事务系统_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/654126910",
+        "upload_time": "2024-10-03T20:03:18.784726",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240116)十年后数据库还是不敢拥抱NUMA-续篇_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/678047037",
+        "upload_time": "2024-10-03T20:03:19.218675",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230912)PolarDB-X_存储引擎核心技术__Paxos多副本_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/655731358",
+        "upload_time": "2024-10-03T20:03:19.720009",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240103)PolarDB-X_与_DRDS_有什么区别_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/333458136",
+        "upload_time": "2024-10-03T20:03:20.183239",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230912)PolarDB-X_存储引擎核心技术__XRPC_私有协议20_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/645791139",
+        "upload_time": "2024-10-03T20:03:20.728107",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231123)重磅更新PolarDB-X_V23_集中式和分布式一体化开源发布_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/664251876",
+        "upload_time": "2024-10-03T20:03:21.301855",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230919)PolarDB-X_混沌测试实践如何衡量数据库索引选择能力_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/657098769",
+        "upload_time": "2024-10-03T20:03:24.009441",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240118)淘宝订单中隐藏的PolarDB-X最佳实践_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/361903384",
+        "upload_time": "2024-10-03T20:03:24.435852",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20230925)PolarDB-X_企业级特性之行级访问权限控制_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/658236152",
+        "upload_time": "2024-10-03T20:03:24.887772",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240206)PolarDB-X的XPlan索引选择_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/681664246",
+        "upload_time": "2024-10-03T20:03:25.347001",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231010)PolarDB-X_分布式数据库中的外键_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/660462275",
+        "upload_time": "2024-10-03T20:03:25.885276",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240103)PolarDB-X_源码解读二CN_启动流程_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/443608658",
+        "upload_time": "2024-10-03T20:03:26.313850",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231017)实践教程之使用PolarDB-X进行冷热数据归档_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/661725663",
+        "upload_time": "2024-10-03T20:03:26.760827",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231128)PolarDB-X最佳实践系列三如何实现高效的分页查询_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/669225677",
+        "upload_time": "2024-10-03T20:03:27.214192",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231109)分布式数据库基于Paxos多副本的两地三中心架构_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/666005585",
+        "upload_time": "2024-10-03T20:03:27.698857",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240226)PolarDB-X拆分键推荐_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/561864772",
+        "upload_time": "2024-10-03T20:03:28.154903",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231110)PolarDB-X最佳实践系列二如何使用DataWorks将数据同步到MaxCompute_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/593067259",
+        "upload_time": "2024-10-03T20:03:28.590156",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231114)存储成本最高降至原来的5PolarDB分布式冷数据归档的业务实践_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/666737723",
+        "upload_time": "2024-10-03T20:03:29.040677",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20231219)PolarDB-X_Operator基于两次心跳事务的指定时间点恢复方案介绍_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/672985523",
+        "upload_time": "2024-10-03T20:03:29.507674",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240119)PolarDB-X最佳实践系列一如何设计一张用户表_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/566229414",
+        "upload_time": "2024-10-03T20:03:30.028958",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "客户案例",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240130)选300平米别墅还是90平米小平层一文带你读懂PolarDB分布式版集分一体化_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/680518203",
+        "upload_time": "2024-10-03T20:03:30.518664",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240229)PolarDB-X最佳实践系列四如何设计一张订单表_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/678519559",
+        "upload_time": "2024-10-03T20:03:31.004786",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "客户案例",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240307)客户说从4小时到15分钟一次分布式数据库的丝滑体验_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/685761988",
+        "upload_time": "2024-10-03T20:03:31.441759",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240312)PolarDB-X最佳实践系列五使用通义千问和存储过程快速生成测试数据_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/686536485",
+        "upload_time": "2024-10-03T20:03:31.868696",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "客户案例",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240401)阿里云_PolarDB-X_团队25届实习生招聘_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/690216969",
+        "upload_time": "2024-10-03T20:03:32.232062",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240411)PolarDB-X_存储引擎核心技术__索引回表优化_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/691515032",
+        "upload_time": "2024-10-03T20:03:32.681717",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240417)PolarDB-X助攻香肠派对百亿好友关系实现毫秒级查询_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/692928074",
+        "upload_time": "2024-10-03T20:03:33.166534",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240513)PolarDB-X_开源__基于Paxos的MySQL三副本_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/669301230",
+        "upload_time": "2024-10-03T20:03:33.656083",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240513)版本更新_PolarDB-X_V24_列存引擎开源正式发布_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/697195803",
+        "upload_time": "2024-10-03T20:03:37.347083",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240515)使用开源ProxySQL构建PolarDB-X标准版高可用路由服务_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/697117089",
+        "upload_time": "2024-10-03T20:03:37.851053",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240521)PolarDB-X_CDC之兼容MySQL高于MySQL_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/698942695",
+        "upload_time": "2024-10-03T20:03:38.418842",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240528)PolarDB-X最佳实践六该关注哪些监控指标_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/700224767",
+        "upload_time": "2024-10-03T20:03:38.877455",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240605)PolarDB-X列存查询引擎_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/701718682",
+        "upload_time": "2024-10-03T20:03:39.358662",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240611)PolarDB-X_存储引擎核心技术__大事务优化_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/702777153",
+        "upload_time": "2024-10-03T20:03:39.852855",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20240619)PolarDB-X列存索引全面支持Schema多版本_PolarDB-X.md",
+        "file_url": "https://zhuanlan.zhihu.com/p/704192973",
+        "upload_time": "2024-10-03T20:03:40.327021",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201120)PolarDB-X_一致性共识协议__X-Paxos_PolarDB-X-checkpoint.md",
+        "file_url": "",
+        "upload_time": "2024-10-03T20:03:40.836245",
+        "upload_user": "admin",
+        "file_type": "External"
+    },
+    {
+        "first_directory": "PolarDB-X",
+        "second_directory": "技术专栏",
+        "third_directory": "技术解析",
+        "file_path": "/mnt/Langchain/knowledge_base/PolarDB--X/content/技术专栏/(20201123)PolarDB-X_私有协议设计_PolarDB-X-checkpoint.md",
+        "file_url": "",
+        "upload_time": "2024-10-03T20:03:41.274143",
+        "upload_user": "admin",
+        "file_type": "External"
+    }
+]
